@@ -1,6 +1,6 @@
 ### Hi there, Utkarsh Babbar 👋
 
-## I'm a second year CS undergraduate from TIET, Patiala 
+## I'm a third year CS undergraduate from TIET, Patiala 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
@@ -45,29 +45,12 @@
 
 <br />
 <br />
+#### GITHUB STATS
+<p>
 
----
+![Github stats](https://github-readme-stats.vercel.app/api?username=babbarutkarsh&show_icons=true)<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babbarutkarsh&layout=compact&theme=light" />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/babbarutkarsh/babbarutkarsh/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/babbarutkarsh/babbarutkarsh/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/babbarutkarsh/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/babbarutkarsh/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
+![Profile views](https://gpvc.arturio.dev/babbarutkarsh)
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Utkarsh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[twitter]: https://twitter.com/utkarsh_babbar
-[instagram]: https://instagram.com/tis_utkarsh
-[linkedin]: https://linkedin.com/in/utkarsh-babbar-3a931a167
+</p>
