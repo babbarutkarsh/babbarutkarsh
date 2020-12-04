@@ -1,4 +1,4 @@
-### Hi there, Utkarsh Babbar 👋
+### Hi there I am Utkarsh Babbar 👋
 
 ## I'm a third year CS undergraduate from TIET, Patiala 
 
