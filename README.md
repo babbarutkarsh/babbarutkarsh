@@ -44,7 +44,6 @@
 [linkedin]: https://linkedin.com/in/utkarsh-babbar-3a931a167
 
 <br />
-<br />
 
 #### GITHUB STATS:
 
