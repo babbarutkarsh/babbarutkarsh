@@ -45,7 +45,9 @@
 
 <br />
 <br />
-#### GITHUB STATS
+
+#### GITHUB STATS:
+
 <p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=babbarutkarsh&show_icons=true)<br>
