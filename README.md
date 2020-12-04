@@ -1,6 +1,6 @@
-### Hi there I am Utkarsh Babbar 👋
+## Hi there I am Utkarsh Babbar 👋
 
-## I'm a third year CS undergraduate from TIET, Patiala 
+### I'm a third year CS undergraduate from TIET, Patiala 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
@@ -55,3 +55,8 @@
 ![Profile views](https://gpvc.arturio.dev/babbarutkarsh)
 
 </p>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
