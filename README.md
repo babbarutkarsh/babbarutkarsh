@@ -2,7 +2,7 @@
 
 ### I'm a third year CS undergraduate from TIET, Patiala 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently exploring deep learning techniques
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
 - 🥅 2020 Goals: Contribute more to Open Source projects and make awesome personal projects 
 - ⚡ Fun fact: I love to paint and sing
