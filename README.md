@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
 - 🥅 2020 Goals: Contribute more to Open Source projects and make awesome personal projects 
 - ⚡ Fun fact: I love to paint and sing
-- 🧠 learning and exploring Django  
+- 🧠 learning and exploring Django Web Framework
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Utkarsh's Spotify Playing" width="350" />](https://open.spotify.com/user/31zbpkz6f6gkf253huqm6f55twsi)
