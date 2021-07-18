@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently exploring deep learning techniques
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
-- 🥅 2020 Goals: Contribute more to Open Source projects and make awesome personal projects 
+- 🥅 2021 Goals: Contribute more to Open Source projects and make awesome personal projects 
 - ⚡ Fun fact: I love to paint and sing
 - 🧠 learning and exploring Django Web Framework
 ### Spotify Playing 🎧
