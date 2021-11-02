@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
 - 🥅 2021 Goals: Contribute more to Open Source projects and make awesome personal projects 
 - ⚡ Fun fact: I love to paint and sing
-- 🧠 learning and exploring Django Web Framework
+- 🧠 Freelancing in Django Web Framework
 
 ### Connect with me:
 
