@@ -1,6 +1,6 @@
 ## Hi there I am Utkarsh Babbar 👋
 
-### I'm a third year CS undergraduate from TIET, Patiala 
+### Electronics and Computer Engineering Senior at Thapar University, Patiala 
 
 - 🌱 I’m currently exploring deep learning techniques
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
