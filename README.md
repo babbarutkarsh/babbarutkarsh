@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently exploring deep learning techniques
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
-- 🥅 2021 Goals: Contribute more to Open Source projects and make awesome personal projects 
+- 🥅 2022 Goals: Build web3.0 
 - ⚡ Fun fact: I love to paint and sing
-- 🧠 Freelancing in Django Web Framework
+- 🧠 SDE @Amadeus + Freelancer
 
 ### Connect with me:
 
