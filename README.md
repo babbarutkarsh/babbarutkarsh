@@ -2,7 +2,7 @@
 
 ### Electronics and Computer Engineering Senior at Thapar University, Patiala 
 
-- 🌱 I’m currently exploring deep learning techniques
+- 🌱 I’m currently exploring blockchain
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
 - 🥅 2022 Goals: Build web3.0 
 - ⚡ Fun fact: I love to paint and sing
