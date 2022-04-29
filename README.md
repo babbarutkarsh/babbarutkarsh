@@ -2,9 +2,9 @@
 
 ### Electronics and Computer Engineering Senior at Thapar University, Patiala 
 
-- 🌱 I’m currently exploring blockchain
+- 🌱 I’m currently exploring devops and azure cloud
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
-- 🥅 2022 Goals: Build web3.0 
+- 🥅 2022 Goals: Deep dive into cloud 
 - ⚡ Fun fact: I love to paint and sing
 - 🧠 SDE @Amadeus
 
