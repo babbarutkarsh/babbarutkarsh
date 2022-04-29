@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
 - 🥅 2022 Goals: Build web3.0 
 - ⚡ Fun fact: I love to paint and sing
-- 🧠 SDE @Amadeus + web3.0 dev in free time
+- 🧠 SDE @Amadeus
 
 ### Connect with me:
 
