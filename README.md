@@ -6,8 +6,7 @@
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
 - 🥅 2022 Goals: Deep dive into cloud 
 - ⚡ Fun fact: I love to paint and sing
-- 🧠 SDE @Amadeus
-
+- 🧠 Getting 1% better everyday
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
