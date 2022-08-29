@@ -1,6 +1,6 @@
 ## Hi there I am Utkarsh Babbar 👋
 
-### Electronics and Computer Engineering Senior at Thapar University, Patiala 
+### SDE1 @Amadeus
 
 - 🌱 I’m currently exploring devops and azure cloud
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
