@@ -2,10 +2,9 @@
 
 ### SDE1 @Amadeus
 
-- 🌱 I’m currently exploring devops and azure cloud
+- 🌱 I’m currently exploring opensource
 - 👯 I’m looking to collaborate with other geeks and create awesome stuff
-- 🥅 2022 Goals: Deep dive into cloud 
-- ⚡ Fun fact: I love to paint and sing
+- 🥅 2024 Goals: GoLang Python 
 - 🧠 Getting 1% better everyday
 ### Connect with me:
 
@@ -36,7 +35,7 @@
 [tailwind]: https://tailwindcss.com
 [fauna]: https://fauna.com
 [twitter]: https://twitter.com/utkarsh_babbar
-[instagram]: https://instagram.com/tis_utkarsh
+[instagram]: https://instagram.com/babbarutkarsh
 [linkedin]: https://linkedin.com/in/utkarsh-babbar-3a931a167
 
 <br />
