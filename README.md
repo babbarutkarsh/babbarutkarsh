@@ -10,6 +10,8 @@
 <br />
 
 ### Languages and Tools:
+
+[![Golang](https://img.shields.io/badge/-Golang-326CE5?style=flat-square&logo=go)]()
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)]()
 [![DevOps](https://img.shields.io/badge/-DevOps-0A0A0A?style=flat-square&logo=devops)]()
 [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible)]()
