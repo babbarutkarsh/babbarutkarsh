@@ -34,7 +34,7 @@
 [svelte]: https://svelte.dev
 [tailwind]: https://tailwindcss.com
 [fauna]: https://fauna.com
-[twitter]: https://twitter.com/utkarsh_babbar
+[twitter]: https://twitter.com/babbarutkarsh
 [instagram]: https://instagram.com/babbarutkarsh
 [linkedin]: https://linkedin.com/in/utkarsh-babbar-3a931a167
 
