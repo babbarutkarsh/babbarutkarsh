@@ -40,18 +40,6 @@
 
 <br />
 
-#### GITHUB STATS:
-
-<p>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=babbarutkarsh&show_icons=true)<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babbarutkarsh&layout=compact&theme=light" />
-
-![Profile views](https://gpvc.arturio.dev/babbarutkarsh)
-
-</p>
-<div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
