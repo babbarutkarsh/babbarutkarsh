@@ -35,7 +35,7 @@
 [tailwind]: https://tailwindcss.com
 [fauna]: https://fauna.com
 [twitter]: https://twitter.com/babbarutkarsh
-[instagram]: https://instagram.com/babbarutkarsh
+[instagram]: https://instagram.com/babbar_utkarsh
 [linkedin]: https://linkedin.com/in/utkarsh-babbar-3a931a167
 
 <br />
