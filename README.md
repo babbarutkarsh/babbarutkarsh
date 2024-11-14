@@ -1,6 +1,6 @@
 ## Hi there I am Utkarsh Babbar 
 
-### Platform Engineer @Amadeus
+### Platform Engineer @Mercari
 
 ### Connect with me:
 
