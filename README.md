@@ -1,7 +1,6 @@
 ## Hi there I am Utkarsh Babbar 
 
-### Platform Engineer @Mercari
-
+### MTS DevOps @Salesforce 
 ### Connect with me:
 
 [<img align="left" alt="Utkarsh Babbar | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/twitter.png" />][twitter]
